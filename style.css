@@ -1,0 +1,54 @@
+body {
+    background-color: cornsilk
+}
+
+#principal {
+    background-image: url(../CSS/img/butterfly.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#tagdiv {
+    background-image: url(../CSS/img/butterfly.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.subdiv {
+    background: rgb(247, 231, 16);
+}
+
+#Titulo {
+    color: rgb(0, 0, 0)
+}
+
+#Titulo2 {
+    color: rgb(3, 3, 3)
+}
+
+#cortrans {
+    color: rgba(0, 0, 0, 0.5)
+}
+
+#cm {
+    background-color: aqua;
+    width: 1cm;
+    height: 1cm;
+}
+
+#mm {
+    background-color: blueviolet;
+    width: 5mm;
+    height: 5mm;
+}
+
+#in {
+    background-color: rgb(43, 70, 226);
+    width: 1in;
+    height: 1in;
+}
+
+
+.green_text {
+    color: rgb(10, 173, 124);
+}

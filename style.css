@@ -48,7 +48,34 @@ body {
     height: 1in;
 }
 
+#px{
+    background-color: rgb(43, 183, 226);
+    width: 10px;
+    height: 10px;
+}
+#pt{
+    background-color: rgb(49, 226, 43);
+    width: 10pt;
+    height: 10pt;
+}
+#pc{
+    background-color: rgb(226, 223, 43);
+    width: 10pc;
+    height: 10pc;
+}
 
 .green_text {
     color: rgb(10, 173, 124);
+}
+
+#base{
+    height: 10px;
+    background-color: blue;
+}
+
+#container{
+    color: #fff;
+    margin: 10px;
+    padding: 10px;
+    background-color: blueviolet;
 }
